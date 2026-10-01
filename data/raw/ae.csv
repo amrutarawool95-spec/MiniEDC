@@ -1,0 +1,111 @@
+ae_id,subject_id,site_id,visit,ae_term,start_date,end_date,ongoing,severity,serious,relationship,outcome
+MHP001-AE01,MHP001,S04,Baseline,Dizziness,2025-02-11,2025-02-14,No,Mild,No,Possible,Recovered
+MHP002-AE01,MHP002,S02,Week 4,Cough,2025-01-29,2025-02-04,No,Severe,No,Possible,Recovered
+MHP003-AE01,MHP003,S03,Week 8,Headache,2025-04-04,2025-04-06,No,Mild,No,Unrelated,Recovered
+MHP004-AE01,MHP004,S02,Week 8,Fatigue,2025-03-22,2025-03-19,No,Severe,No,Unrelated,Recovered
+MHP004-AE02,MHP004,S02,Week 2,Nausea,2025-02-23,,Yes,Moderate,No,Probable,Not recovered
+MHP005-AE01,MHP005,S04,Week 4,Cough,2025-01-27,2025-01-26,No,Moderate,No,Probable,Recovered
+MHP006-AE01,MHP006,S06,Week 4,Nausea,2025-03-14,2025-03-30,No,Moderate,No,Unrelated,Recovered
+MHP006-AE02,MHP006,S06,Week 4,Headache,2025-02-05,2025-02-11,No,Severe,No,Unrelated,Recovered
+MHP007-AE01,MHP007,S06,Week 8,Nausea,2025-03-09,2025-03-22,No,Mild,No,Probable,Recovered
+MHP007-AE02,MHP007,S06,Baseline,Peripheral edema,2025-05-04,2025-04-27,No,Mild,No,Probable,Recovered
+MHP009-AE01,MHP009,S04,Week 4,Dizziness,2025-03-10,2025-03-22,No,Moderate,No,Possible,Recovered
+MHP009-AE02,MHP009,S04,Week 2,Cough,2025-03-23,2025-03-25,No,Moderate,No,Unrelated,Recovered
+MHP010-AE01,MHP010,S03,Screening,Nausea,2025-04-18,2025-05-01,No,Mild,No,Possible,Recovered
+MHP013-AE01,MHP013,S05,Week 8,Nausea,2025-04-04,2025-04-07,No,Moderate,No,Probable,Recovered
+MHP013-AE02,MHP013,S05,Week 2,Peripheral edema,2025-04-04,2025-04-14,No,Severe,No,Probable,Recovered
+MHP014-AE01,MHP014,S03,Screening,Cough,2025-03-18,2025-03-27,No,Severe,No,Probable,Recovered
+MHP014-AE02,MHP014,S03,Week 2,Peripheral edema,2025-03-20,2025-03-31,No,Moderate,No,Probable,Recovered
+MHP016-AE01,MHP016,S06,Week 2,Fatigue,2025-02-13,2025-02-27,No,Severe,No,Possible,Recovered
+MHP017-AE01,MHP017,S03,Screening,Dizziness,2025-02-04,,Yes,Severe,No,Possible,Not recovered
+MHP018-AE01,MHP018,S04,Week 4,Peripheral edema,2025-03-06,2025-03-10,No,Severe,No,Possible,Recovered
+MHP018-AE02,MHP018,S04,Week 8,Dizziness,2025-01-27,2025-02-05,No,Severe,No,Unrelated,Recovered
+MHP022-AE01,MHP022,S01,Week 4,Cough,2025-03-17,2025-03-14,No,Mild,No,Probable,Not recovered
+MHP023-AE01,MHP023,S03,Week 2,Cough,2025-05-07,2025-05-12,No,Moderate,No,Unrelated,Recovered
+MHP024-AE01,MHP024,S04,Week 8,Peripheral edema,2025-03-22,2025-03-24,No,Severe,No,Unrelated,Recovered
+MHP024-AE02,MHP024,S04,Week 8,Dizziness,2025-04-19,2025-05-03,No,Mild,No,Unrelated,Recovered
+MHP025-AE01,MHP025,S05,Baseline,Fatigue,2025-04-16,2025-04-30,No,Severe,No,Possible,Recovered
+MHP026-AE01,MHP026,S03,Week 8,Nausea,2025-01-20,2025-02-05,No,Severe,No,Unrelated,Recovered
+MHP026-AE02,MHP026,S03,Week 4,Peripheral edema,2025-01-29,2025-02-04,No,Severe,No,Unrelated,Recovered
+MHP027-AE01,MHP027,S02,Week 4,Cough,2025-04-23,2025-04-16,No,Mild,No,Probable,Not recovered
+MHP028-AE01,MHP028,S01,Week 2,Peripheral edema,2025-03-21,2025-04-06,No,Severe,No,Possible,Recovered
+MHP028-AE02,MHP028,S01,Screening,Cough,2025-03-15,2025-03-11,No,Moderate,No,Possible,Recovered
+MHP029-AE01,MHP029,S05,Week 2,Cough,2025-02-23,2025-03-05,No,Moderate,No,Probable,Recovered
+MHP029-AE02,MHP029,S05,Baseline,Headache,2025-02-20,2025-02-23,No,Moderate,No,Possible,Recovered
+MHP030-AE01,MHP030,S05,Week 2,Nausea,2025-02-28,2025-03-09,No,Moderate,No,Possible,Recovered
+MHP031-AE01,MHP031,S05,Baseline,Headache,2025-04-14,2025-04-28,No,Moderate,No,Probable,Recovered
+MHP031-AE02,MHP031,S05,Week 2,Headache,2025-04-10,2025-04-27,No,Severe,No,Probable,Recovered
+MHP032-AE01,MHP032,S05,Week 2,Headache,2025-02-05,2025-02-07,No,Mild,No,Unrelated,Recovered
+MHP033-AE01,MHP033,S02,Screening,Nausea,2025-02-09,2025-02-11,No,Moderate,No,Unrelated,Recovered
+MHP036-AE01,MHP036,S02,Week 2,Fatigue,2025-05-18,2025-05-29,No,Severe,No,Possible,Recovered
+MHP039-AE01,MHP039,S01,Week 4,Fatigue,2025-03-15,2025-03-27,No,Mild,No,Probable,Recovered
+MHP039-AE02,MHP039,S01,Week 8,Cough,2025-02-22,2025-03-03,No,Severe,No,Possible,Recovered
+MHP040-AE01,MHP040,S01,Screening,Dizziness,2025-03-20,,Yes,Severe,No,Probable,Not recovered
+MHP040-AE02,MHP040,S01,Baseline,Cough,2025-02-27,2025-03-16,No,Severe,No,Probable,Recovered
+MHP042-AE01,MHP042,S01,Week 4,Nausea,2025-02-13,2025-02-15,No,Moderate,No,Probable,Recovered
+MHP047-AE01,MHP047,S04,Screening,Nausea,2025-02-06,2025-02-20,No,Moderate,No,Possible,Recovered
+MHP051-AE01,MHP051,S06,Screening,Fatigue,2025-02-06,,Yes,Moderate,No,Possible,Not recovered
+MHP052-AE01,MHP052,S01,Week 4,Fatigue,2025-02-16,2025-02-13,No,Moderate,No,Unrelated,Recovered
+MHP054-AE01,MHP054,S04,Week 4,Peripheral edema,2025-02-20,,Yes,Severe,No,Unrelated,Not recovered
+MHP055-AE01,MHP055,S06,Week 4,Cough,2025-01-24,,Yes,Moderate,No,Possible,Not recovered
+MHP055-AE02,MHP055,S06,Baseline,Headache,2025-02-13,2025-02-21,No,Mild,No,Unrelated,Recovered
+MHP056-AE01,MHP056,S03,Screening,Cough,2025-04-21,2025-04-14,No,Moderate,No,Probable,Recovered
+MHP057-AE01,MHP057,S04,Week 8,Headache,2025-02-14,2025-02-28,No,Severe,No,Unrelated,Recovered
+MHP059-AE01,MHP059,S03,Screening,Fatigue,2025-02-27,2025-03-07,No,Severe,No,Possible,Recovered
+MHP059-AE02,MHP059,S03,Baseline,Cough,2025-04-03,2025-04-16,No,Moderate,No,Unrelated,Recovered
+MHP062-AE01,MHP062,S04,Week 2,Headache,2025-03-06,,Yes,Mild,No,Possible,Not recovered
+MHP063-AE01,MHP063,S06,Week 4,Cough,2025-03-09,2025-03-24,No,Moderate,No,Probable,Recovered
+MHP063-AE02,MHP063,S06,Week 2,Cough,2025-03-30,2025-04-09,No,Moderate,No,Possible,Recovered
+MHP066-AE01,MHP066,S03,Baseline,Nausea,2025-02-26,,Yes,Mild,No,Unrelated,Not recovered
+MHP069-AE01,MHP069,S02,Week 4,Fatigue,2025-03-01,2025-03-11,No,Moderate,No,Unrelated,Recovered
+MHP070-AE01,MHP070,S04,Baseline,Peripheral edema,2025-03-12,,Yes,Moderate,No,Unrelated,Not recovered
+MHP072-AE01,MHP072,S02,Week 2,Nausea,2025-03-02,2025-03-15,No,Severe,No,Unrelated,Recovered
+MHP072-AE02,MHP072,S02,Week 4,Cough,2025-04-14,,Yes,Severe,No,Probable,Not recovered
+MHP073-AE01,MHP073,S03,Week 4,Nausea,2025-03-04,,Yes,Moderate,No,Unrelated,Not recovered
+MHP073-AE02,MHP073,S03,Week 8,Fatigue,2025-03-01,,Yes,Moderate,No,Possible,Not recovered
+MHP079-AE01,MHP079,S03,Baseline,Peripheral edema,2025-05-07,,Yes,Moderate,No,Probable,Not recovered
+MHP080-AE01,MHP080,S06,Week 2,Cough,2025-02-04,2025-01-30,No,Moderate,No,Unrelated,Recovered
+MHP080-AE02,MHP080,S06,Baseline,Peripheral edema,2025-02-09,2025-02-22,No,Severe,No,Unrelated,Recovered
+MHP081-AE01,MHP081,S04,Week 8,Cough,2025-01-22,2025-02-06,No,Severe,No,Possible,Recovered
+MHP081-AE02,MHP081,S04,Week 2,Cough,2025-01-23,2025-01-29,No,Moderate,No,Probable,Recovered
+MHP082-AE01,MHP082,S05,Week 8,Dizziness,2025-03-19,2025-03-17,No,Severe,No,Probable,Recovered
+MHP082-AE02,MHP082,S05,Week 8,Headache,2025-04-12,2025-04-26,No,Severe,No,Probable,Recovered
+MHP084-AE01,MHP084,S01,Week 2,Headache,2025-03-16,2025-03-27,No,Moderate,No,Possible,Recovered
+MHP085-AE01,MHP085,S05,Week 8,Fatigue,2025-03-31,2025-04-06,No,Moderate,No,Possible,Recovered
+MHP085-AE02,MHP085,S05,Week 8,Headache,2025-02-21,2025-03-03,No,Moderate,No,Possible,Recovered
+MHP087-AE01,MHP087,S02,Week 2,Cough,2025-04-07,2025-04-06,No,Severe,No,Probable,Recovered
+MHP087-AE02,MHP087,S02,Week 2,Peripheral edema,2025-04-14,2025-04-13,No,Severe,No,Unrelated,Recovered
+MHP088-AE01,MHP088,S04,Baseline,Dizziness,2025-05-04,2025-05-10,No,Mild,No,Unrelated,Recovered
+MHP088-AE02,MHP088,S04,Baseline,Nausea,2025-04-09,2025-04-05,No,Mild,No,Probable,Recovered
+MHP089-AE01,MHP089,S05,Screening,Dizziness,2025-03-24,,Yes,Moderate,No,Unrelated,Not recovered
+MHP089-AE02,MHP089,S05,Baseline,Fatigue,2025-02-17,2025-02-11,No,Severe,No,Unrelated,Recovered
+MHP091-AE01,MHP091,S06,Week 2,Headache,2025-03-28,2025-04-11,No,Moderate,No,Possible,Recovered
+MHP092-AE01,MHP092,S02,Baseline,Nausea,2025-04-09,2025-04-22,No,Moderate,No,Possible,Recovered
+MHP092-AE02,MHP092,S02,Week 4,Dizziness,2025-04-06,2025-04-21,No,Mild,No,Probable,Recovered
+MHP093-AE01,MHP093,S03,Week 8,Cough,2025-04-12,2025-04-18,No,Mild,No,Probable,Recovered
+MHP093-AE02,MHP093,S03,Week 4,Nausea,2025-03-17,2025-03-30,No,Severe,No,Possible,Recovered
+MHP094-AE01,MHP094,S06,Week 2,Headache,2025-03-10,2025-03-25,No,Severe,No,Probable,Recovered
+MHP094-AE02,MHP094,S06,Baseline,Headache,2025-03-20,,Yes,Moderate,No,Unrelated,Not recovered
+MHP095-AE01,MHP095,S03,Week 8,Peripheral edema,2025-04-06,2025-04-15,No,Mild,No,Unrelated,Recovered
+MHP097-AE01,MHP097,S03,Week 4,Peripheral edema,2025-03-13,2025-03-15,No,Mild,No,Probable,Recovered
+MHP098-AE01,MHP098,S06,Baseline,Peripheral edema,2025-01-29,2025-02-05,No,Moderate,No,Unrelated,Recovered
+MHP102-AE01,MHP102,S04,Baseline,Dizziness,2025-03-22,2025-03-20,No,Moderate,No,Probable,Recovered
+MHP103-AE01,MHP103,S05,Week 8,Headache,2025-04-22,,Yes,Mild,No,Probable,Not recovered
+MHP104-AE01,MHP104,S05,Baseline,Dizziness,2025-02-17,2025-03-06,No,Severe,No,Probable,Recovered
+MHP105-AE01,MHP105,S02,Week 8,Fatigue,2025-02-23,2025-03-12,No,Moderate,No,Possible,Recovered
+MHP105-AE02,MHP105,S02,Week 8,Cough,2025-02-26,2025-03-03,No,Severe,No,Probable,Recovered
+MHP107-AE01,MHP107,S05,Screening,Cough,2025-04-10,2025-04-18,No,Severe,No,Unrelated,Recovered
+MHP107-AE02,MHP107,S05,Week 8,Dizziness,2025-03-20,2025-03-28,No,Severe,No,Probable,Recovered
+MHP108-AE01,MHP108,S01,Screening,Dizziness,2025-03-30,2025-04-13,No,Mild,No,Probable,Recovered
+MHP110-AE01,MHP110,S06,Week 2,Cough,2025-03-20,2025-04-04,No,Moderate,No,Probable,Recovered
+MHP110-AE02,MHP110,S06,Week 4,Peripheral edema,2025-03-08,2025-03-13,No,Severe,No,Possible,Recovered
+MHP111-AE01,MHP111,S01,Baseline,Nausea,2025-03-29,2025-04-09,No,Severe,No,Unrelated,Recovered
+MHP111-AE02,MHP111,S01,Week 2,Dizziness,2025-03-12,2025-03-22,No,Severe,No,Possible,Recovered
+MHP113-AE01,MHP113,S06,Baseline,Headache,2025-04-16,2025-04-21,No,Severe,No,Possible,Recovered
+MHP114-AE01,MHP114,S02,Week 4,Headache,2025-03-21,2025-04-02,No,Severe,No,Unrelated,Recovered
+MHP114-AE02,MHP114,S02,Screening,Fatigue,2025-03-23,2025-03-31,No,Severe,No,Possible,Recovered
+MHP115-AE01,MHP115,S02,Week 8,Dizziness,2025-01-26,2025-01-31,No,Moderate,No,Probable,Recovered
+MHP117-AE01,MHP117,S03,Screening,Fatigue,2025-03-05,,Yes,Severe,No,Probable,Not recovered
+MHP117-AE02,MHP117,S03,Week 2,Dizziness,2025-04-12,2025-04-14,No,Moderate,No,Possible,Recovered
+MHP118-AE01,MHP118,S02,Week 2,Dizziness,2025-05-04,2025-05-17,No,Moderate,No,Probable,Recovered
+MHP119-AE01,MHP119,S04,Week 8,Cough,2025-03-10,2025-03-21,No,Mild,No,Probable,Recovered

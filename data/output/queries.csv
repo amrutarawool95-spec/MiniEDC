@@ -1,0 +1,86 @@
+query_id,check_id,form,subject,site,visit,field,message,status,opened_date,record_id
+QRY-00001,DM002,DM,MHP061,S04,,subject_id,Please resolve the duplicate Demographics record for this subject. Finding: Subject ID MHP061 already appears in Demographics.,Open,2026-10-01,DM-120
+QRY-00002,DM003,DM,MHP007,,,site_id,Please confirm the subject's assigned site. Finding: Recorded site is (blank).,Open,2026-10-01,DM-6
+QRY-00003,DM003,DM,MHP081,,,site_id,Please confirm the subject's assigned site. Finding: Recorded site is (blank).,Open,2026-10-01,DM-80
+QRY-00004,DM003,DM,MHP088,,,site_id,Please confirm the subject's assigned site. Finding: Recorded site is (blank).,Open,2026-10-01,DM-87
+QRY-00005,DM004,DM,MHP012,S01,,consent_date,Please enter the date informed consent was obtained. Finding: Consent date is blank or invalid.,Open,2026-10-01,DM-11
+QRY-00006,DM004,DM,MHP050,S02,,consent_date,Please enter the date informed consent was obtained. Finding: Consent date is blank or invalid.,Open,2026-10-01,DM-49
+QRY-00007,DM004,DM,MHP079,S03,,consent_date,Please enter the date informed consent was obtained. Finding: Consent date is blank or invalid.,Open,2026-10-01,DM-78
+QRY-00008,DM005,DM,MHP015,S01,,birth_date,Please enter the subject's date of birth. Finding: Date of birth is blank or invalid.,Open,2026-10-01,DM-14
+QRY-00009,DM005,DM,MHP032,S05,,birth_date,Please enter the subject's date of birth. Finding: Date of birth is blank or invalid.,Open,2026-10-01,DM-31
+QRY-00010,DM005,DM,MHP112,S04,,birth_date,Please enter the subject's date of birth. Finding: Date of birth is blank or invalid.,Open,2026-10-01,DM-111
+QRY-00011,DM008,DM,MHP038,S01,,initials,Please enter the subject's initials per the CRF guidelines. Finding: Initials are blank.,Open,2026-10-01,DM-37
+QRY-00012,DM008,DM,MHP105,S02,,initials,Please enter the subject's initials per the CRF guidelines. Finding: Initials are blank.,Open,2026-10-01,DM-104
+QRY-00013,DM008,DM,MHP106,S06,,initials,Please enter the subject's initials per the CRF guidelines. Finding: Initials are blank.,Open,2026-10-01,DM-105
+QRY-00014,DM009,DM,MHP024,S04,,sex,Please select a permitted sex value or correct the entry. Finding: Recorded value is (blank).,Open,2026-10-01,DM-23
+QRY-00015,DM009,DM,MHP066,S03,,sex,Please select a permitted sex value or correct the entry. Finding: Recorded value is (blank).,Open,2026-10-01,DM-65
+QRY-00016,DM009,DM,MHP109,S05,,sex,Please select a permitted sex value or correct the entry. Finding: Recorded value is (blank).,Open,2026-10-01,DM-108
+QRY-00017,VS004,VS,MHP003,S03,Week 2,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-02-01 precedes consent 2025-02-11.,Open,2026-10-01,VS-12
+QRY-00018,VS004,VS,MHP005,S04,Week 8,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-01-06 precedes consent 2025-01-20.,Open,2026-10-01,VS-24
+QRY-00019,VS004,VS,MHP008,S05,Week 4,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-01-24 precedes consent 2025-01-26.,Open,2026-10-01,VS-38
+QRY-00020,VS004,VS,MHP017,S03,Week 2,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-01-14 precedes consent 2025-01-15.,Open,2026-10-01,VS-82
+QRY-00021,VS004,VS,MHP021,S02,Week 4,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-02-15 precedes consent 2025-02-23.,Open,2026-10-01,VS-103
+QRY-00022,VS004,VS,MHP042,S01,Baseline,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2024-12-31 precedes consent 2025-01-13.,Open,2026-10-01,VS-206
+QRY-00023,VS004,VS,MHP043,S05,Week 2,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-01-18 precedes consent 2025-01-22.,Open,2026-10-01,VS-212
+QRY-00024,VS004,VS,MHP093,S03,Screening,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-03-01 precedes consent 2025-03-09.,Open,2026-10-01,VS-460
+QRY-00025,VS004,VS,MHP107,S05,Screening,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-01-21 precedes consent 2025-02-01.,Open,2026-10-01,VS-530
+QRY-00026,VS004,VS,MHP115,S02,Screening,visit_date,Please verify that this visit occurred after informed consent. Finding: Visit date 2025-01-12 precedes consent 2025-01-21.,Open,2026-10-01,VS-570
+QRY-00027,VS006,VS,MHP002,S02,Screening,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 274 mmHg.,Open,2026-10-01,VS-5
+QRY-00028,VS006,VS,MHP029,S05,Screening,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 290 mmHg.,Open,2026-10-01,VS-140
+QRY-00029,VS006,VS,MHP032,S05,Week 2,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 270 mmHg.,Open,2026-10-01,VS-157
+QRY-00030,VS006,VS,MHP052,S01,Week 8,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 267 mmHg.,Open,2026-10-01,VS-259
+QRY-00031,VS006,VS,MHP061,S04,Baseline,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 279 mmHg.,Open,2026-10-01,VS-301
+QRY-00032,VS006,VS,MHP064,S05,Week 8,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 269 mmHg.,Open,2026-10-01,VS-319
+QRY-00033,VS006,VS,MHP077,S03,Week 2,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 283 mmHg.,Open,2026-10-01,VS-382
+QRY-00034,VS006,VS,MHP090,S01,Screening,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 263 mmHg.,Open,2026-10-01,VS-445
+QRY-00035,VS006,VS,MHP101,S03,Week 8,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 286 mmHg.,Open,2026-10-01,VS-504
+QRY-00036,VS006,VS,MHP102,S04,Week 4,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 264 mmHg.,Open,2026-10-01,VS-508
+QRY-00037,VS006,VS,MHP108,S01,Week 2,systolic_bp,Please verify the systolic blood pressure and confirm the value in mmHg. Finding: Systolic blood pressure is 264 mmHg.,Open,2026-10-01,VS-537
+QRY-00038,VS012,VS,MHP015,S01,Week 4,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-73
+QRY-00039,VS012,VS,MHP017,S03,Baseline,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-81
+QRY-00040,VS012,VS,MHP022,S01,Week 8,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-109
+QRY-00041,VS012,VS,MHP033,S02,Screening,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-160
+QRY-00042,VS012,VS,MHP058,S04,Week 2,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-287
+QRY-00043,VS012,VS,MHP059,S03,Baseline,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-291
+QRY-00044,VS012,VS,MHP061,S04,Week 4,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-303
+QRY-00045,VS012,VS,MHP066,S03,Week 8,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-329
+QRY-00046,VS012,VS,MHP078,S02,Week 4,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-388
+QRY-00047,VS012,VS,MHP079,S03,Week 8,weight_unit,Please convert the source weight to kilograms and update the recorded unit. Finding: Recorded weight unit is lb.,Open,2026-10-01,VS-394
+QRY-00048,VS015,VS,MHP003,S03,Week 2,visit_date,Please verify the visit date sequence for this subject. Finding: Week 2 date 2025-02-01 precedes an earlier scheduled visit.,Open,2026-10-01,VS-12
+QRY-00049,VS015,VS,MHP005,S04,Week 8,visit_date,Please verify the visit date sequence for this subject. Finding: Week 8 date 2025-01-06 precedes an earlier scheduled visit.,Open,2026-10-01,VS-24
+QRY-00050,VS015,VS,MHP008,S05,Week 4,visit_date,Please verify the visit date sequence for this subject. Finding: Week 4 date 2025-01-24 precedes an earlier scheduled visit.,Open,2026-10-01,VS-38
+QRY-00051,VS015,VS,MHP017,S03,Week 2,visit_date,Please verify the visit date sequence for this subject. Finding: Week 2 date 2025-01-14 precedes an earlier scheduled visit.,Open,2026-10-01,VS-82
+QRY-00052,VS015,VS,MHP021,S02,Week 4,visit_date,Please verify the visit date sequence for this subject. Finding: Week 4 date 2025-02-15 precedes an earlier scheduled visit.,Open,2026-10-01,VS-103
+QRY-00053,VS015,VS,MHP042,S01,Baseline,visit_date,Please verify the visit date sequence for this subject. Finding: Baseline date 2024-12-31 precedes an earlier scheduled visit.,Open,2026-10-01,VS-206
+QRY-00054,VS015,VS,MHP043,S05,Week 2,visit_date,Please verify the visit date sequence for this subject. Finding: Week 2 date 2025-01-18 precedes an earlier scheduled visit.,Open,2026-10-01,VS-212
+QRY-00055,AE003,AE,MHP004,S02,Week 8,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-03-19 precedes start date 2025-03-22.,Open,2026-10-01,AE-3
+QRY-00056,AE003,AE,MHP005,S04,Week 4,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-01-26 precedes start date 2025-01-27.,Open,2026-10-01,AE-5
+QRY-00057,AE003,AE,MHP007,S06,Baseline,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-04-27 precedes start date 2025-05-04.,Open,2026-10-01,AE-9
+QRY-00058,AE003,AE,MHP022,S01,Week 4,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-03-14 precedes start date 2025-03-17.,Open,2026-10-01,AE-21
+QRY-00059,AE003,AE,MHP027,S02,Week 4,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-04-16 precedes start date 2025-04-23.,Open,2026-10-01,AE-28
+QRY-00060,AE003,AE,MHP028,S01,Screening,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-03-11 precedes start date 2025-03-15.,Open,2026-10-01,AE-30
+QRY-00061,AE003,AE,MHP052,S01,Week 4,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-02-13 precedes start date 2025-02-16.,Open,2026-10-01,AE-46
+QRY-00062,AE003,AE,MHP056,S03,Screening,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-04-14 precedes start date 2025-04-21.,Open,2026-10-01,AE-50
+QRY-00063,AE003,AE,MHP080,S06,Week 2,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-01-30 precedes start date 2025-02-04.,Open,2026-10-01,AE-65
+QRY-00064,AE003,AE,MHP082,S05,Week 8,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-03-17 precedes start date 2025-03-19.,Open,2026-10-01,AE-69
+QRY-00065,AE003,AE,MHP087,S02,Week 2,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-04-06 precedes start date 2025-04-07.,Open,2026-10-01,AE-74
+QRY-00066,AE003,AE,MHP087,S02,Week 2,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-04-13 precedes start date 2025-04-14.,Open,2026-10-01,AE-75
+QRY-00067,AE003,AE,MHP088,S04,Baseline,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-04-05 precedes start date 2025-04-09.,Open,2026-10-01,AE-77
+QRY-00068,AE003,AE,MHP089,S05,Baseline,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-02-11 precedes start date 2025-02-17.,Open,2026-10-01,AE-79
+QRY-00069,AE003,AE,MHP102,S04,Baseline,end_date,Please verify the adverse event start and end dates. Finding: End date 2025-03-20 precedes start date 2025-03-22.,Open,2026-10-01,AE-90
+QRY-00070,CM001,CM,MHP013,S05,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-15
+QRY-00071,CM001,CM,MHP022,S01,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-24
+QRY-00072,CM001,CM,MHP037,S06,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-39
+QRY-00073,CM001,CM,MHP051,S06,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-54
+QRY-00074,CM001,CM,MHP057,S04,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-59
+QRY-00075,CM001,CM,MHP078,S02,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-77
+QRY-00076,CM001,CM,MHP082,S05,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-81
+QRY-00077,CM001,CM,MHP086,S02,Screening,medication,Please enter the medication name or document that no medication was taken. Finding: Medication name is blank.,Open,2026-10-01,CM-87
+QRY-00078,CM005,CM,MHP013,S05,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-14
+QRY-00079,CM005,CM,MHP024,S04,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-25
+QRY-00080,CM005,CM,MHP046,S04,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-50
+QRY-00081,CM005,CM,MHP051,S06,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-55
+QRY-00082,CM005,CM,MHP097,S03,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-102
+QRY-00083,CM005,CM,MHP109,S05,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-121
+QRY-00084,CM005,CM,MHP113,S06,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-124
+QRY-00085,CM005,CM,MHP116,S05,Screening,dose_unit,Please correct the dose unit to a permitted value. Finding: Recorded dose unit is stone.,Open,2026-10-01,CM-128
